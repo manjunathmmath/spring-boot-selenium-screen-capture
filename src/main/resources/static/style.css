@@ -1,0 +1,7 @@
+.dataTables_length{
+    position: absolute;
+}
+.dt-buttons{
+    position: absolute;
+    left: 5rem;
+}

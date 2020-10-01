@@ -1,0 +1,6 @@
+# Ignored files and folders #
+target
+*.iml
+.idea
+*.properties
+properties
